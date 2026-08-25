@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-classic
+langchain-text-splitters
+langchain-openai
+faiss-cpu
+pypdf
+python-dotenv
+ipykernel
+jupyter
